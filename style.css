@@ -178,6 +178,38 @@ bottom: 640px;
         position: relative;
         top: 30px
        }
+img.foto1{
+    margin-left: 200px;
+    margin-top: 50px;
+}
+img.foto2{
+    margin-left: 200px;
+    margin-top: 50px;
+}
+img.foto3{
+    margin-left: 200px;
+    margin-top: 50px;
+
+}
+img.foto4{
+    margin-left: 200px;
+    margin-top: 50px;
+}
+p.Firstword{
+    padding:60px 100px 0px 10px 
+}
+p.twoword{
+    padding:60px 100px 0px 10px 
+}
+p.threeword{
+    padding:40px 130px 0px 10px 
+}
+p.fourword{
+    padding:40px 130px 0px 10px 
+}
+p.secondword{
+    padding: auto;
+}
 
     
 }
